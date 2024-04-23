@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>books.library_app.dto</OriginalElement>
+  <nodes>
+    <node x="-324.0" y="62.0">books.library_app.dto.Mail</node>
+    <node x="-194.0" y="-71.0">books.library_app.dto.User</node>
+    <node x="-254.0" y="-164.0">books.library_app.dto.Reading</node>
+    <node x="-416.0" y="-55.0">books.library_app.dto.Book</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="books.library_app.dto.User" target="books.library_app.dto.Mail" relationship="GENERALIZATION">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="books.library_app.dto.Reading" target="books.library_app.dto.Book" relationship="GENERALIZATION">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="103.5" y="91.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
