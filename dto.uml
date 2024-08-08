@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>books.library_app.dto</OriginalElement>
+  <nodes>
+    <node x="131.0" y="304.0">books.library_app.dto.User</node>
+    <node x="257.0" y="304.0">books.library_app.dto.Mail</node>
+    <node x="0.0" y="0.0">books.library_app.dto.ReturnedBook</node>
+    <node x="172.0" y="76.0">books.library_app.dto.Publisher</node>
+    <node x="157.0" y="152.0">books.library_app.dto.Reading</node>
+    <node x="146.0" y="228.0">books.library_app.dto.Author</node>
+    <node x="0.0" y="76.0">books.library_app.dto.IssuedBook</node>
+    <node x="0.0" y="152.0">books.library_app.dto.Category</node>
+    <node x="191.0" y="0.0">books.library_app.dto.BookAtLibrary</node>
+    <node x="0.0" y="304.0">books.library_app.dto.Book</node>
+    <node x="0.0" y="228.0">books.library_app.dto.Version</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="169.0" y="167.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
